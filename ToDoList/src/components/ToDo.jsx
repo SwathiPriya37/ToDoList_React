@@ -61,7 +61,13 @@ const ToDo = () => {
             />
           ))
         )}
-      
+      </div>
+      {todos.length > 0 && (
+        <div className="task-counter">
+          {todos.filter(todo => !todo.completed).length} of {todos.length} tasks remaining
+        </div>
+      )}
+    </div>
   );
 };
 
