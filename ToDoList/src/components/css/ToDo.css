@@ -1,13 +1,23 @@
-.todo{
-   width: 600px;
-   min-height: 732px;
-   border-radius: 20px;
-   background: #fff;
-   margin: auto;
-   margin-top: 174px;
-   display: flex;
-   flex-direction: column; 
-   padding: 0px 44px;
-   padding-bottom: 30px;
-   margin-bottom: 100px;
+.todo {
+  max-width: 400px;
+  margin: 50px auto;
+  background: #1e2328;
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.todo-header {
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 30px;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.todo-add {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 25px;
 }
