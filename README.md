@@ -20,8 +20,6 @@ src/
 
 
 
----
-
 ## 🚀 Features
 
 - ✅ Add new tasks with a button or `Enter` key
