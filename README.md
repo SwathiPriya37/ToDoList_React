@@ -42,7 +42,8 @@ CSS (custom styles)
 
 Tooling: Create React App / Vite
 
-🧩 Future Improvements
+🧩 Future Improvements :
+
 📝 Edit existing tasks
 
 💾 Save to localStorage
