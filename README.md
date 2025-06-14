@@ -1,4 +1,4 @@
-# 📝 ToDo List App
+# ToDo List App
 
 A simple and stylish To-Do List application built with **React**, featuring task creation, completion toggling, deletion, keyboard shortcuts, and a live task counter — all in a clean dark UI.
 
