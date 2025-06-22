@@ -5,6 +5,7 @@ A simple and stylish To-Do List application built with **React**, featuring task
 ---
 
 ## 📁 File Structure
+``` bash
 
 src/
 ├── components/
@@ -17,7 +18,7 @@ src/
 ├── App.css
 ├── index.css
 └── main.jsx
-
+```
 
 
 ## 🚀 Features
